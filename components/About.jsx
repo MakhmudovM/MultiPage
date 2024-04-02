@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
         <h2 style={{textAlign:"center"}}>about</h2>
-        <img style={{borderRadius:"10px"}} src="./public/1635998677_3-papik-pro-p-vektornii-risunok-mebeli-3-scaled.jpg" alt="" width={900} height={600}/>
+        <img style={{borderRadius:"10px"}} src="http://localhost:5173/public/1635998677_3-papik-pro-p-vektornii-risunok-mebeli-3-scaled.jpg" alt="" width={900} height={600}/>
         <p style={{textAlign:"center", fontSize:"24px"}}>"Приветствуем вас в мире стиля и комфорта – магазине 'Элегантный Дом Мебели'!
 
 Ищете идеальное сочетание качественной мебели и изысканного дизайна для вашего дома или офиса? Тогда вы попали по адресу!
