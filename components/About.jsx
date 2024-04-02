@@ -3,8 +3,19 @@
 function About() {
   return (
     <div>
-        <h2>about</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, provident accusamus. Eaque ipsum, vel quaerat laborum a laboriosam voluptates dolore labore obcaecati quo impedit incidunt quas rem ea explicabo commodi fuga officia quasi fugiat. Nobis quo animi molestiae vel, ab ratione assumenda ducimus perspiciatis sit a accusantium itaque ipsam neque.</p>
+        <h2 style={{textAlign:"center"}}>about</h2>
+        <img style={{borderRadius:"10px"}} src="./public/1635998677_3-papik-pro-p-vektornii-risunok-mebeli-3-scaled.jpg" alt="" width={900} height={600}/>
+        <p style={{textAlign:"center", fontSize:"24px"}}>"Приветствуем вас в мире стиля и комфорта – магазине 'Элегантный Дом Мебели'!
+
+Ищете идеальное сочетание качественной мебели и изысканного дизайна для вашего дома или офиса? Тогда вы попали по адресу!
+
+У нас вы найдете широкий выбор мебели для любого помещения: от уютной спальни до функционального кабинета. Наши эксклюзивные коллекции включают в себя современные и классические дизайны, созданные с любовью к деталям.
+
+Приходите к нам и погрузитесь в мир элегантности и стиля! Наши опытные консультанты всегда готовы помочь вам с выбором и предложить лучшие решения для вашего интерьера.
+
+Акция для новых клиентов: получите скидку 10% на первую покупку!
+
+Не упустите возможность сделать свой дом еще более уютным и стильным. Ждем вас в магазине 'Элегантный Дом Мебели'!"</p>
         </div>
   )
 }
